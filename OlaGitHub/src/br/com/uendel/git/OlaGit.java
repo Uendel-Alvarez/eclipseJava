@@ -16,6 +16,7 @@ public class OlaGit {
 		System.out.println("****aplicação teste com Git****");
 		System.out.println("*** segunda alteração no projeto ****");
 		System.out.println("Configuração da integração gerada com sucesso!!!");
+		System.out.println("###novo teste de confirmação###");
 		
 	}
 
